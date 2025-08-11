@@ -1,0 +1,45 @@
+Mandy Mhlongo
+Aspiring IT Support Professional
+
+CONTACT
+-------
+Email: mhlongomandy@gmail.com
+Phone: 0748541665
+LinkedIn: linkedin.com/in/mandy-mhlongo-9a048991
+GitHub: github.com/MandyMhlongo
+
+SUMMARY
+-------
+An aspiring IT support professional with a background in System Development and Support. Passionate about solving technical problems, assisting users, and continuously learning and growing in the IT field. Seeking an IT support role to apply technical skills and customer service experience in a team-focused, innovative environment.
+
+SKILLS
+------
+Technical Skills:
+- Basic Programming & Web Design: HTML, CSS
+- Enterprise Systems: SAP CRM, Admissions Platforms
+- Customer Service & Front-line Support
+
+Soft Skills:
+- Problem Solving
+- Teamwork
+- Communication
+- Time Management
+
+Strengths:
+- Detail-oriented and reliable
+- Proactive team player
+- Fast learner and adaptable
+
+PROJECTS
+--------
+A portfolio of projects is available on GitHub, showcasing practical application of technical skills.
+
+- Sentiment Analysis API: Detects if text is positive, negative, or neutral.
+- AI Concept Chatbot: An interactive educational chatbot for AI fundamentals.
+- Resume AI Builder: A resume AI builder helps you quickly create a professional resume by guiding you step-by-step and generating content automatically based on your experience, skills, and career goals.
+
+(Full project details and demos available on my portfolio website)
+
+EDUCATION & BACKGROUND
+--------------------
+Background in System Development and Support.
